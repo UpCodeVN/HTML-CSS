@@ -13,8 +13,9 @@ h1 {
 h2 {
     font-size: 25px;
 }
-
-p {
+.main-text {
     text-align: justify;
-    font-family: Helvetica Neue, Arial;
+}
+.author-text {
+    font-size: 22px;
 }
